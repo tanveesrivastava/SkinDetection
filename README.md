@@ -69,8 +69,10 @@ The main function `process_image(image_data)` performs the following steps:
 
 The `on_upload_change(change)` function handles the file upload event and processes the uploaded image.
 
-### Image 1
+### Output :
 ![Image 1](Images/Image1.png)
+
+![Image 1](Images/Image2.png)
 
 ## Contributing
 
